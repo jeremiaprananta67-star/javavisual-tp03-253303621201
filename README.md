@@ -34,6 +34,9 @@ Aliran data aplikasi dimulai dari Main.java, yang membuat objek Character dan me
 Dua karakter baru ditambahkan untuk memenuhi kebutuhan minimal lima karakter sekaligus memberikan variasi tipe dan level pada aplikasi. Srikandi — ARCHER, Level 2: Dipilih sebagai karakter pemanah dengan level awal yang relatif rendah untuk menunjukkan variasi statistik pada karakter yang masih berkembang. Bima — WARRIOR, Level 6: Dipilih sebagai karakter petarung dengan level lebih tinggi untuk memberikan perbandingan statistik dengan karakter berlevel rendah serta membantu menguji perhitungan rata-rata level. Penambahan karakter dengan tipe dan level yang berbeda memungkinkan aplikasi menampilkan data yang lebih bervariasi dan menguji apakah statistik rata-rata level dihitung berdasarkan seluruh karakter secara akurat.
 
 ### Screenshot Output Terminal ap10
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/d136dc3f-35b1-4b98-8329-64cacada4870" />
+
+
 Identitas Mahasiswa
 Nama Lengkap: Jeremia Prananta Ginting
 NIM: 253303621201
