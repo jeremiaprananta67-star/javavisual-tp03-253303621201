@@ -52,8 +52,9 @@ Untuk meningkatkan kualitas antarmuka dan pengalaman pengguna (UX), berikut adal
 
 ## Screenshot Output (sebelum vs sesudah)
 ### Sebelum
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e94cba67-18ec-4dc4-851d-fc41abadae32" />
 ### Sesudah
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/5dc9fecb-0c28-4e44-b6f9-c5784356d5f4" />
 
 Identitas Mahasiswa
 Nama Lengkap: Jeremia Prananta Ginting
