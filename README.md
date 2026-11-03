@@ -35,7 +35,7 @@ Aliran data aplikasi dimulai dari Main.java, yang membuat objek Character dan me
 Dua karakter baru ditambahkan untuk memenuhi kebutuhan minimal lima karakter sekaligus memberikan variasi tipe dan level pada aplikasi. Srikandi — ARCHER, Level 2: Dipilih sebagai karakter pemanah dengan level awal yang relatif rendah untuk menunjukkan variasi statistik pada karakter yang masih berkembang. Bima — WARRIOR, Level 6: Dipilih sebagai karakter petarung dengan level lebih tinggi untuk memberikan perbandingan statistik dengan karakter berlevel rendah serta membantu menguji perhitungan rata-rata level. Penambahan karakter dengan tipe dan level yang berbeda memungkinkan aplikasi menampilkan data yang lebih bervariasi dan menguji apakah statistik rata-rata level dihitung berdasarkan seluruh karakter secara akurat.
 
 ### Screenshot Output Terminal ap10
-
+<img width="1637" height="911" alt="Screenshot 2026-11-03 114710" src="https://github.com/user-attachments/assets/d7ca8239-dd5f-48c1-8077-d35d6392e7d0" />
 
 # AP13 — Dokumentasi Pembaruan GUI & Manajemen Tema
 
