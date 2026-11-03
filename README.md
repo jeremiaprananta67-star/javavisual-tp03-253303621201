@@ -58,4 +58,7 @@ Untuk meningkatkan kualitas antarmuka dan pengalaman pengguna (UX), berikut adal
 Identitas Mahasiswa
 Nama Lengkap: Jeremia Prananta Ginting
 NIM: 253303621201
-Link Google Docs ap3:
+Link Google Docs ap3 :
+Link Google Docs ap6 :
+Link Google Docs ap10:
+Link Google Docs ap13:
