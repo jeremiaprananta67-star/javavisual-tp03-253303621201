@@ -93,19 +93,22 @@ Berikut adalah analisis komparatif antara prediksi teoritis tata letak layout da
 | **SOUTH** (Status Bar) | Tetap mengunci posisi di bagian terbawah jendela. Teks sistem akan merapat ke kiri (`WEST`) dan teks versi `"v0.5"` akan merapat penuh ke sudut kanan (`EAST`). | Panel status bar tetap berada di dasar frame. Teks info dan versi terpisah secara otomatis ke ujung kiri dan kanan berkat sifat pembagian wilayah `BorderLayout`. | Sesuai |
 
 ## Screenshot Output Terminal ap16
-1. Ukuran Awal (Default Window Size): 
-   
-2. Jendela Dilebarkan (Maximized / Resized Large):  
-   
-3. Jendela Dikecilkan (Minimized / Vertikal Scrollbar Aktif):
+1. Ukuran Awal (Default Window Size):
+   <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/7397a9cc-a22b-47f9-9c49-32f4e1697110" />
+
+3. Jendela Dilebarkan (Maximized / Resized Large):  
+   <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/312bdfee-4988-4c0b-99c6-8140e57d91d2" />
+
+4. Jendela Dikecilkan (Minimized / Vertikal Scrollbar Aktif):
+   <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/f2c3d57a-606a-4965-8089-5710fc69eb8b" />
+
 
 Identitas Mahasiswa
 Nama Lengkap: Jeremia Prananta Ginting
 NIM: 253303621201
-<<<<<<< HEAD
+<<<<<<< HEAD <<<<<<<
 Link Google Docs ap3 :
 Link Google Docs ap6 :
 Link Google Docs ap10:
 Link Google Docs ap13:
-
 Link Google Docs ap16:https://docs.google.com/document/d/1dmA4oND4ZB_ZYgq7E0PeEOuvnm7fgDexVQ0pTH3da1c/edit?usp=sharing
